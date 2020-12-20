@@ -5,7 +5,7 @@ This is a cool recreation of the `d3v4eglovri8yt` CloudFront server used by GoAn
 Simply make a pull request.
 
 ## To Use the Asset Library
-In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), and [GA4SR](https://github.com/BluePeacocks/NewGA4SRCloudfrontServer), Set the contents of `config.json` to:
+In [GA4SR](https://github.com/BluePeacocks/NewGA4SRCloudfrontServer), Set the contents of `config.json` to:
 ```
 {
         "SWF_URL": "https://mysteriousowen.github.io/GA4SR-Modded-Assets/animation/414827163ad4eb60",
@@ -16,7 +16,7 @@ In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), and [GA4SR
 
 # Credits
 # Original Assets
-Vyond
+Vyond/GoAnimate, GA4S
 # Custom Clothing & Other Custom Assets 
 Kenny Animate - Original idea
 Waleed Tariq2001
@@ -37,5 +37,8 @@ Kenny Animate
 # Awful caillou shirt
 creepyjokes
 
-# Forked From:
+# Forked From
 2Epik4u
+
+# Edited by
+MysteriousOwen
