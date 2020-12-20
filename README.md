@@ -8,9 +8,9 @@ Simply make a pull request.
 In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), and [GA4SR](https://github.com/BluePeacocks/NewGA4SRCloudfrontServer), Set the contents of `config.json` to:
 ```
 {
-        "SWF_URL": "https://2epik4u.github.io/GoAnimate-Modded-Assets/animation/414827163ad4eb60",
-        "STORE_URL": "https://2epik4u.github.io/GoAnimate-Modded-Assets/store/3a981f5cb2739137",
-        "CLIENT_URL": "https://2epik4u.github.io/GoAnimate-Modded-Assets/static/ad44370a650793d9"
+        "SWF_URL": "https://mysteriousowen.github.io/GA4SR-Modded-Assets/animation/414827163ad4eb60",
+        "STORE_URL": "https://mysteriousowen.github.io/GA4SR-Modded-Assets/store/3a981f5cb2739137",
+        "CLIENT_URL": "https://mysteriousowen.github.io/GA4SR-Modded-Assets/static/ad44370a650793d9"
 }
 ```
 
